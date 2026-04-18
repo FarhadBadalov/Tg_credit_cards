@@ -61,4 +61,4 @@ python3 card_bot.py
 
 ## Автор
 
-Герман Дольников ([@Farhad211](https://t.me/Farhad211))
+Фархад Бадалов ([@Farhad211](https://t.me/Farhad211))
